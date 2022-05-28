@@ -1,0 +1,12 @@
+node_modules/
+yarn-error.log
+package.json
+
+.editorconfig
+test/
+coverage/
+.travis.yml
+.vscode
+.cache
+website
+src
